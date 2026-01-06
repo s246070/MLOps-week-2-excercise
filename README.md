@@ -1,2 +1,2 @@
 # MLOps-week-2-excercise
-Repository for our MLOps project
+Repository for MLOps week 2 exercise
